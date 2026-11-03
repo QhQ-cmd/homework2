@@ -1,3 +1,5 @@
+//谯海权
+//202610125226
 #include <stdio.h>
 typedef struct Sensor
 {
