@@ -31,7 +31,7 @@ void sort_players(struct Player p[],int num)
     {
         for(int j=i+1;j<num;j++)
         {
-            if(p[i].score<p[j].score)
+            if(p[i].score<=p[j].score)
             {
                 Player temp = p[i];
                 p[i] = p[j];
