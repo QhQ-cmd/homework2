@@ -19,7 +19,7 @@ int main(void)
     }
     else
     {
-        printf("ERROR: Out of range\n");
+        printf("ERROR: Out of Range\n");
     }
     return 0;
 }
